@@ -1,0 +1,20 @@
+//the name of the language is Fantasy 
+SHOW "hello world" 
+SHOW 10 
+SHOW 10 + 2 * 5 
+$a = "hello" 
+$b = "world"  
+$c = 20  
+$d = 20 - 6 * 8
+SHOW $d
+SHOW $a
+$e = $c
+SHOW $e
+
+if  1 == 1 then 
+	show "hello world"
+endif 
+
+
+
+
